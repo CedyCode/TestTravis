@@ -2,6 +2,8 @@ language: cpp
 
 notifications:
   email:
+      recipients:
+        - ilo@adobe.c
       on_sucess: always
       on_failure: always
 
