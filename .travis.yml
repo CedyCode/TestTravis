@@ -3,7 +3,7 @@ language: cpp
 notifications:
   email:
       recipients:
-        - rythm.c1@gmail.com
+        - ilo@adobe.com
       on_sucess: always
       on_failure: always
 
