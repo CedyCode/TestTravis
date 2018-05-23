@@ -1,3 +1,11 @@
 language: cpp
 
+notifications:
+  email:
+      recipients:
+        ilo@adobe.com
+
+      on_sucess: always
+      on_failure: always
+
 script: cpp Test.cpp main
