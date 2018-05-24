@@ -1,11 +1,9 @@
 language: cpp
 
 notifications:
-  email:
-      recipients:
-        - ilo@adobe.com
-        - rythm.c1@gmail.com
-        - blank@web.info
+  webhooks:
+      urls:
+        - https://webhook.site/2d38d339-e89f-45d6-a195-c7ada36d6028
       on_sucess: always
       on_failure: always
 
